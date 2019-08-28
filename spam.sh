@@ -47,7 +47,7 @@ clear
 echo $i"Sabar ya sayang :/"
 echo $i"Masih Proses..."
 sleep 3
-git clone https://github.com/TERMUX-ID3/brutal-sms
+git clone https://github.com/TERMUXID3/brutal-sms
 cd brutal-sms
 python2 run.py
 fi
